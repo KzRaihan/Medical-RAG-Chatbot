@@ -190,7 +190,7 @@ This allows retrieval quality and answer quality to be evaluated independently.
                          ┌──────────────────────────┐
                          │           LLM            │
                          │                          │
-                         │          GPT-4o           │
+                         │          GPT-OSS-20B     │
                          └────────────┬─────────────┘
                                       │
                                       ▼
